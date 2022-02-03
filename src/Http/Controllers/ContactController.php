@@ -1,8 +1,8 @@
 <?php
-namespace Ali\Contact\Http\Controllers;
+namespace Alidev\Contact\Http\Controllers;
 
-use Ali\Contact\Mail\ContactMailable;
-use Ali\Contact\Models\Contact;
+use Alidev\Contact\Mail\ContactMailable;
+use Alidev\Contact\Models\Contact;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Mail;

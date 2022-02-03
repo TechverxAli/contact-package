@@ -1,6 +1,6 @@
 <?php
 
-namespace Ali\Contact\Mail;
+namespace Alidev\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Mail\Mailable;

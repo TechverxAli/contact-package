@@ -1,6 +1,6 @@
 <?php
 
-Route::group(['namespace'=>'Ali\Contact\Http\Controllers'],function(){
+Route::group(['namespace'=>'Alidev\Contact\Http\Controllers'],function(){
     Route::get('contact','ContactController@index')->name('contact');
     Route::post('contact','ContactController@send');
 });

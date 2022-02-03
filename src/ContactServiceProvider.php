@@ -1,5 +1,5 @@
 <?php
-namespace Ali\Contact;
+namespace Alidev\Contact;
 use Illuminate\Support\ServiceProvider;
 Class ContactServiceProvider extends  ServiceProvider{
 
