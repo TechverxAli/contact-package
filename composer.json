@@ -1,5 +1,5 @@
 {
-    "name": "ali/contact",
+    "name": "alidev/contact",
     "description": "send email",
     "type": "library",
     "license": "MIT",
@@ -10,7 +10,7 @@
     },
     "authors": [
         {
-            "name": "ali",
+            "name": "alidev",
             "email": "m.ali@techverx.com"
         }
     ],
