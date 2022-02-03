@@ -1,0 +1,19 @@
+{
+    "name": "ali/contact",
+    "description": "send email",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ali\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ali",
+            "email": "m.ali@techverx.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
